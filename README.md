@@ -32,3 +32,4 @@ Döküman içerisindeki konu başlıkları aşağıda listelenmiştir.
 `BOM(Browser Object Model)`<br>
 `jQuery`<br>
 `npm(Node Package Manager)`<br>
+`Typescript`<br>
